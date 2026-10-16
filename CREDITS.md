@@ -11,6 +11,11 @@ The email photos come from [Unsplash](https://unsplash.com) and are used under t
 | `email-card-yala-leopard.jpg` | [Leopard in Yala National Park](https://unsplash.com/photos/EGU-t5V5ghU) | [Sach](https://unsplash.com/@sach567) |
 | `email-card-mirissa-beach.jpg` | [Palm trees on the beach, Mirissa](https://unsplash.com/photos/iduEaeBB_rQ) | [Dinuka Lankaloka](https://unsplash.com/@bawva) |
 | `email-strip-elephants.jpg` | [Elephants crossing a river](https://unsplash.com/photos/nDrkDvdC9kU) | [Shyaman Prasad](https://unsplash.com/@shyam_lab) |
+| `email-card-mirissa-stilt-fishermen.jpg` | [Stilt fishermen, Mirissa](https://unsplash.com/photos/Qx8_d5dGhrs) | [Daniel Klein](https://unsplash.com/@danielklein) |
+
+`email-strip-elephants-playing.jpg` and `email-card-leopard-portrait.jpg` were supplied by
+Sunbird Lanka Tours, not taken from Unsplash. Older emails still link to the photos above,
+so replaced photos are kept here rather than deleted.
 
 # Icon credits
 
