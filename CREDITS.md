@@ -11,3 +11,9 @@ The email photos come from [Unsplash](https://unsplash.com) and are used under t
 | `email-card-yala-leopard.jpg` | [Leopard in Yala National Park](https://unsplash.com/photos/EGU-t5V5ghU) | [Sach](https://unsplash.com/@sach567) |
 | `email-card-mirissa-beach.jpg` | [Palm trees on the beach, Mirissa](https://unsplash.com/photos/iduEaeBB_rQ) | [Dinuka Lankaloka](https://unsplash.com/@bawva) |
 | `email-strip-elephants.jpg` | [Elephants crossing a river](https://unsplash.com/photos/nDrkDvdC9kU) | [Shyaman Prasad](https://unsplash.com/@shyam_lab) |
+
+# Icon credits
+
+`facebook.png`, `instagram.png` and `tripadvisor.png` were made from
+[Simple Icons](https://simpleicons.org) 13.21.0 (CC0), drawn in white at 48×48.
+The logos are trademarks of their owners and only link to Sunbird's own pages.
